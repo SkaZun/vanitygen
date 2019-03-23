@@ -385,8 +385,8 @@ main(int argc, char **argv)
 			only_one = 1;
 			break;
 		case 'N':
-			addrtype = 52;
-			privtype = 180;
+			addrtype = 92; //esbc
+			privtype = 25;
 			scriptaddrtype = -1;
 			break;
 		case 'T':
